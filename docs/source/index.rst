@@ -34,7 +34,7 @@ To join the LDMS Users Group Mailing List: https://github.com/ovis-hpc/ovis-wiki
    :caption: OVIS Components
 
    ldms/index
-   :doc:`Subproject SOS Being Used <sub-sos:readthedocs/docs/source/sos/index>`
+   :doc:`Subproject SOS Being Used <sos-readthedocs:readthedocs/docs/source/sos/index>`
    maestro/index
    baler/index
    asf/index 
@@ -46,7 +46,6 @@ Other Projects
 `ovis-publications <https://github.com/ovis-hpc/ovis-publications>`_
 `maestro <https://github.com/ovis-hpc/maestro>`_
 `sos <https://github.com/ovis-hpc/sos>`_
-TESTING
    
 
 
