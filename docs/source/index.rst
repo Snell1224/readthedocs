@@ -43,7 +43,12 @@ To join the LDMS Users Group Mailing List: https://github.com/ovis-hpc/ovis-wiki
    
 Other Projects
 ====================================
-`Subproject SOS Being Used <sos-readthedocs:readthedocs/docs/source/sos/index>`_
+`sos-readthedocs:/readthedocs/docs/source/sos/index`
+`sos-readthedocs:readthedocs/docs/source/sos/index`
+`sos-readthedocs:/readthedocs/docs/source/sos/index`_
+`sos-readthedocs:readthedocs/docs/source/sos/index`_
+sos-readthedocs:readthedocs/docs/source/sos/index
+sos-readthedocs:/readthedocs/docs/source/sos/index
 `ovis <https://github.com/ovis-hpc/ovis>`_
 `ovis-publications <https://github.com/ovis-hpc/ovis-publications>`_
 `maestro <https://github.com/ovis-hpc/maestro>`_
