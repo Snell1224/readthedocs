@@ -35,7 +35,7 @@ To join the LDMS Users Group Mailing List: https://github.com/ovis-hpc/ovis-wiki
 
    ldms/index
    `LDMS Index file <ldms/index>`_
-   `Subproject SOS Being Used <sos-readthedocs:/readthedocs/docs/source/sos/index>`_
+   :doc:`Subproject SOS Being Used <sos-readthedocs:/readthedocs/docs/source/sos/index>`_
    maestro/index
    baler/index
    asf/index 
@@ -43,12 +43,14 @@ To join the LDMS Users Group Mailing List: https://github.com/ovis-hpc/ovis-wiki
    
 Other Projects
 ====================================
-`sos-readthedocs:/readthedocs/docs/source/sos/index`
-`sos-readthedocs:readthedocs/docs/source/sos/index`
-`sos-readthedocs:/readthedocs/docs/source/sos/index`_
-`sos-readthedocs:readthedocs/docs/source/sos/index`_
-sos-readthedocs:readthedocs/docs/source/sos/index
-sos-readthedocs:/readthedocs/docs/source/sos/index
+:doc:`Subproject SOS Being Used <sos-readthedocs:/readthedocs/docs/source/sos/index>`_
+
+:doc:`Subproject SOS Being Used <sos-readthedocs:/readthedocs/docs/source/sos/index>`
+
+:doc:`sos-readthedocs:/readthedocs/docs/source/sos/index`_
+
+:doc:`sos-readthedocs:/readthedocs/docs/source/sos/index`
+
 `ovis <https://github.com/ovis-hpc/ovis>`_
 `ovis-publications <https://github.com/ovis-hpc/ovis-publications>`_
 `maestro <https://github.com/ovis-hpc/maestro>`_
