@@ -47,7 +47,7 @@ Other Projects
 
 :doc: `Subproject SOS Being Used <sos-readthedocs:/readthedocs/docs/source/sos/index>`
 
-ldms/index
+:ref:`My reference <ldms/index>`
 
 `ovis <https://github.com/ovis-hpc/ovis>`_
 `ovis-publications <https://github.com/ovis-hpc/ovis-publications>`_
