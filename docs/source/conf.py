@@ -26,6 +26,7 @@ intersphinx_mapping = {
     "sos-readthedocs": ("https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/", None),
 }
 intersphinx_disabled_domains = ['std']
+intersphinx_disabled_reftypes = ["*"]
 
 templates_path = ['_templates']
 
