@@ -43,9 +43,8 @@ To join the LDMS Users Group Mailing List: https://github.com/ovis-hpc/ovis-wiki
    
 Other Projects
 ====================================
-:doc:`Subproject SOS Being Used <sos-readthedocs:/readthedocs/docs/source/sos/index>`
 
-:doc: `Subproject SOS Being Used <sos-readthedocs:/readthedocs/docs/source/sos/index>`
+:doc:`Subproject SOS Being Used <sos-readthedocs:sos/index>`
 
 :ref:`My reference <ldms/index>`
 
