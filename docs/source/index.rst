@@ -39,6 +39,14 @@ Welcome To OVIS-HPC Documentation!
 Other Projects
 ====================================
 
+:doc:`<ldms:index>`
+:doc:`<sos:index>`
+:doc:`<maestro:index>`
+:doc:`<baler:index>`
+:doc:`<ldms:asf/index>`
+deployment/index
+
+
 `ldms <https://github.com/ovis-hpc/ovis>`_
 `ovis-publications <https://github.com/ovis-hpc/ovis-publications>`_
 `maestro <https://github.com/ovis-hpc/maestro>`_
