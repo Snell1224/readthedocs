@@ -10,7 +10,7 @@
 
 Welcome To OVIS-HPC Documentation!
 ====================================
-.. image:: images/ovis-hpc_homepage.png
+.. image:: images/ovis-logo.png
    :width: 1000
    :height: 150
 
