@@ -21,8 +21,11 @@ Welcome To OVIS-HPC Documentation!
    :caption: OVIS and Group Activity
 
    :doc:`<ldms:aboutovis>`
+
    :doc:`<ldms:ldmscon>`
+
    :doc:`<ldms:ug>`
+
    publications
 
 .. toctree::
@@ -30,41 +33,19 @@ Welcome To OVIS-HPC Documentation!
    :caption: OVIS Components
 
    :doc:`<ldms:index>`
+
    :doc:`<sos:index>`
+
    :doc:`<maestro:index>`
+
    :doc:`<baler:index>`
+
    :doc:`<ldms:asf/index>`
-   :doc:`<ldms>`
-   :doc:`ldms`
+
    deployment/index
    
 Other Projects
 ====================================
-
-:doc:`Reference to ldms <ldms:index>`
-
-:doc:`Reference to ldms <ldms:#>`
-
-:doc:`Reference to ldms <ldms:/#>`
-
-:doc:`Reference to ldms <ldms:/index>`
-
-:ref:`sos:welcome-to-sos-documentation`
-
-:ref:`sos:#`
-
-:doc:`sos:#`
-
-:doc:`Doc ref to sos <sos>`
-
-:doc:`Doc ref to maestro <maestro:index>`
-
-:doc:`Doc ref to baler <baler:index>`
-
-:doc:`Dock refo the asf on ldms<ldms:asf/index>`
-
-deployment/index
-
 
 `ldms <https://github.com/ovis-hpc/ovis>`_
 `ovis-publications <https://github.com/ovis-hpc/ovis-publications>`_
