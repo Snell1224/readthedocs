@@ -35,6 +35,7 @@ Welcome To OVIS-HPC Documentation!
    :doc:`<baler:index>`
    :doc:`<ldms:asf/index>`
    :doc:`<ldms>`
+   :doc:`ldms`
    deployment/index
    
 Other Projects
