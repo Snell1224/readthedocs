@@ -11,7 +11,8 @@
 Welcome To OVIS-HPC Documentation!
 ====================================
 .. image:: images/ovis-logo.png
-   :scale:: 50%
+   :width: 400
+   :height: 400
 
 **OVIS** is a modular system for HPC data collection, transport, storage, analysis, visualization, and log message exploration. The Lightweight Distributed Metric Service (**LDMS**) is a scalable low-overhead, low-latency framework for collection, movement, and storage of metric/event data on distributed computer systems.
 
@@ -31,11 +32,10 @@ Welcome To OVIS-HPC Documentation!
    :maxdepth: 4
    :caption: OVIS Components
 
-   :doc:`ldms:index`
+   :doc:`LDMS <ldms:index>`
+   :doc:`SOS <sos:index>`
 
-   :doc:`sos:index`
-
-   :doc:`maestro:index`
+   :doc:`Maesetro <maestro:index>`
 
    :doc:`baler:index`
 
