@@ -14,41 +14,37 @@ Welcome To OVIS-HPC Documentation!
    :width: 1000
    :height: 150
 
-LDMS GitHub: https://github.com/ovis-hpc/ovis
-
-To join the LDMS Users Group Mailing List: https://github.com/ovis-hpc/ovis-wiki/wiki/Mailing-Lists
-
 **OVIS** is a modular system for HPC data collection, transport, storage, analysis, visualization, and log message exploration. The Lightweight Distributed Metric Service (**LDMS**) is a scalable low-overhead, low-latency framework for collection, movement, and storage of metric/event data on distributed computer systems.
 
 .. toctree::
    :maxdepth: 2
    :caption: OVIS and Group Activity
 
-   aboutovis
-   ldmscon
-   ug
+   :doc:`<ldms:aboutovis>`
+   :doc:`<ldms:ldmscon>`
+   :doc:`<ldms:ug>`
    publications
 
 .. toctree::
    :maxdepth: 4
    :caption: OVIS Components
 
-   ldms/index
-   :doc:`<sos:sos/index>`
-   maestro/index
-   baler/index
-   asf/index 
+   :doc:`<ldms:index>`
+   :doc:`<sos:index>`
+   :doc:`<maestro:index>`
+   :doc:`<baler:index>`
+   :doc:`<ldms:asf/index>`
    deployment/index
    
 Other Projects
 ====================================
 
-:ref:`Testing ref with SOS config options <sos:configuration-options>`
-
-`ovis <https://github.com/ovis-hpc/ovis>`_
+`ldms <https://github.com/ovis-hpc/ovis>`_
 `ovis-publications <https://github.com/ovis-hpc/ovis-publications>`_
 `maestro <https://github.com/ovis-hpc/maestro>`_
 `sos <https://github.com/ovis-hpc/sos>`_
+`baler <https://github.com/ovis-hpc/baler>`_
+
    
 
 

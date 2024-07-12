@@ -22,8 +22,13 @@ extensions = [
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
-    # Links to the "sos" subproject of the "ldms" project.
+    "ovis-hpc": ("https://ovis-hpc-personal.readthedocs.io/en/latest/", None),
+    # Link to the subprojects of the "hpc-ovis" project.
     "sos": ("https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/", None),
+    "maestro": ("https://ovis-hpc-personal.readthedocs.io/projects/maestro/en/latest/", None),
+    "baler": ("https://ovis-hpc-personal.readthedocs.io/projects/baler/en/latest/", None),
+    "ldms": ("https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/", None),
+
 }
 intersphinx_disabled_domains = ['std']
 intersphinx_disabled_reftypes = ["*"]
