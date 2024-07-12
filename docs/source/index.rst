@@ -20,7 +20,7 @@ Welcome To OVIS-HPC Documentation!
    :maxdepth: 2
    :caption: OVIS and Group Activity
 
-   :doc:`<ldms:aboutovis>`
+   :doc:`ldms:aboutovis`
 
    :doc:`<ldms:ldmscon>`
 
@@ -32,7 +32,10 @@ Welcome To OVIS-HPC Documentation!
    :maxdepth: 4
    :caption: OVIS Components
 
+   `ldms:index`
+   
    :doc:`LDMS <ldms:index>`
+   
    :doc:`SOS <sos:index>`
 
    :doc:`Maesetro <maestro:index>`
@@ -48,7 +51,7 @@ Other Projects
 
 :doc:`ldms:index`
 
-:doc:`<sos:index>`
+:doc:`SOS <sos:index>`
 
 :doc:`<maestro:index>`
 
