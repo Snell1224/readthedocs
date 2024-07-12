@@ -39,11 +39,15 @@ Welcome To OVIS-HPC Documentation!
 Other Projects
 ====================================
 
-:doc:`<ldms:index>`
-:doc:`<sos:index>`
-:doc:`<maestro:index>`
-:doc:`<baler:index>`
-:doc:`<ldms:asf/index>`
+:doc:`Reference to ldms <ldms:index>`
+:doc:`Reference to ldms <ldms:#>`
+:doc:`Reference to ldms <ldms:/#>`
+:doc:`Reference to ldms <ldms:/index>`
+
+:doc:`Doc ref to sos <sos:index>`
+:doc:`Doc ref to maestro <maestro:index>`
+:doc:`Doc ref to baler <baler:index>`
+:doc:`Dock refo the asf on ldms<ldms:asf/index>`
 deployment/index
 
 
