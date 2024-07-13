@@ -11,8 +11,9 @@
 Welcome To OVIS-HPC Documentation!
 ====================================
 .. image:: images/ovis-logo.png
-   :width: 400
-   :height: 400
+   :width: 150
+   :height: 200
+   :align: center
 
 **OVIS** is a modular system for HPC data collection, transport, storage, analysis, visualization, and log message exploration. The Lightweight Distributed Metric Service (**LDMS**) is a scalable low-overhead, low-latency framework for collection, movement, and storage of metric/event data on distributed computer systems.
 
@@ -20,49 +21,23 @@ Welcome To OVIS-HPC Documentation!
    :maxdepth: 2
    :caption: OVIS and Group Activity
 
-   :doc:`ldms:aboutovis`
-
-   :doc:`<ldms:ldmscon>`
-
-   :doc:`<ldms:ug>`
-
-   publications
+   <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/aboutovis.html> 
+   <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ldmscon.html>
+   <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ug.html>
+    publications
 
 .. toctree::
    :maxdepth: 4
    :caption: OVIS Components
 
-   `ldms:index`
-   
-   :doc:`LDMS <ldms:index>`
-   
-   :doc:`SOS <sos:index>`
-
-   :doc:`Maesetro <maestro:index>`
-
-   :doc:`baler:index`
-
-   :doc:`ldms:asf/index`
-
-   SOS `<sos:index>`
-   
+   LDMS <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/index.html>
    SOS <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/index.html>
-
+   Maestro <https://ovis-hpc-personal.readthedocs.io/projects/maestro/en/latest/index.html>
+   Baler <https://ovis-hpc-personal.readthedocs.io/projects/baler/en/latest/index.html>
    deployment/index
    
 Other Projects
 ====================================
-
-:doc:`ldms:index`
-
-:doc:`SOS <sos:index>`
-
-:doc:`<maestro:index>`
-
-:doc:`<baler:index>`
-
-:doc:`<ldms:asf/index>`
-
 
 `ldms <https://github.com/ovis-hpc/ovis>`_
 `ovis-publications <https://github.com/ovis-hpc/ovis-publications>`_
