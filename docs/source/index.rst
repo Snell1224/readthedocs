@@ -44,7 +44,7 @@ Welcome To OVIS-HPC Documentation!
 
    :doc:`ldms:asf/index`
 
-   `sos <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/index.html>`
+   `sos <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/index.html>`_
 
    deployment/index
    
