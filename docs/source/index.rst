@@ -21,10 +21,10 @@ Welcome To OVIS-HPC Documentation!
    :maxdepth: 2
    :caption: OVIS and Group Activity
 
-   https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/aboutovis.html
-   <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ldmscon.html>
-   <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ug.html>
-    publications
+   aboutovis
+   LDMSCON <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ldmscon.html>
+   User Group <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ug.html>
+   publications
 
 .. toctree::
    :maxdepth: 4
