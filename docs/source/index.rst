@@ -30,9 +30,9 @@ Welcome To OVIS-HPC Documentation!
    :maxdepth: 6
    :caption: OVIS Components
 
-   SOS <sos:index>
-   `SOS <sos:index>`
-   SOS `<sos:index>`
+   :doc:SOS <sos:index>
+   :doc:`SOS <sos:index>`
+   :doc:`SOS <sos:latest/index>`
    LDMS <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/index.html>
    SOS <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/index.html>
    Maestro <https://ovis-hpc-personal.readthedocs.io/projects/maestro/en/latest/index.html>
@@ -42,8 +42,8 @@ Welcome To OVIS-HPC Documentation!
 Other Projects
 ====================================
 
-`TESTING SOS INDEX STUFF <sos:index>`
-`TESTING SOS INDEX STUFF <sos:latest/index>`
+:doc:`TESTING SOS INDEX STUFF <sos:index>`
+:doc:`TESTING SOS INDEX STUFF <sos:latest/index>`
 
 `ldms <https://github.com/ovis-hpc/ovis>`_
 `ovis-publications <https://github.com/ovis-hpc/ovis-publications>`_
