@@ -22,7 +22,7 @@ extensions = [
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
-    "ovis-hpc": ("https://ovis-hpc-personal.readthedocs.io/en/latest/", None),
+    
     # Link to the subprojects of the "hpc-ovis" project.
     "sos": ("https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/", None),
     "maestro": ("https://ovis-hpc-personal.readthedocs.io/projects/maestro/en/latest/", None),
@@ -43,7 +43,6 @@ html_logo = "images/ovis-logo.png"
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
-    'logo_url': "https://ovis-hpc-personal.readthedocs.io/en/latest/",
 }
 
 # -- Options for EPUB output
