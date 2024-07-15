@@ -24,7 +24,7 @@ intersphinx_mapping = {
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
     
     # Link to the subprojects of the "hpc-ovis" project.
-    "sos": ("https://ovis-hpc-personal.readthedocs.io/projects/sos/en/", None),
+    "sos": ("https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/", None),
     "maestro": ("https://ovis-hpc-personal.readthedocs.io/projects/maestro/en/latest/", None),
     "baler": ("https://ovis-hpc-personal.readthedocs.io/projects/baler/en/latest/", None),
     "ldms": ("https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/", None),
