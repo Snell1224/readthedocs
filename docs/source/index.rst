@@ -30,8 +30,10 @@ Welcome To OVIS-HPC Documentation!
    :maxdepth: 4
    :caption: OVIS Components
 
+   SOS <sos:index>
+   SOS `<sos:index>`
    LDMS <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/index.html>
-   SOS <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/index.html>
+   SOS <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/index>
    Maestro <https://ovis-hpc-personal.readthedocs.io/projects/maestro/en/latest/index.html>
    Baler <https://ovis-hpc-personal.readthedocs.io/projects/baler/en/latest/index.html>
    deployment/index
