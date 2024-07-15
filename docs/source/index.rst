@@ -43,6 +43,7 @@ Other Projects
 ====================================
 
 `TESTING SOS INDEX STUFF <sos:index>`
+`TESTING SOS INDEX STUFF <sos:latest/index>`
 
 `ldms <https://github.com/ovis-hpc/ovis>`_
 `ovis-publications <https://github.com/ovis-hpc/ovis-publications>`_
