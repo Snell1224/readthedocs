@@ -27,10 +27,11 @@ Welcome To OVIS-HPC Documentation!
    publications
 
 .. toctree::
-   :maxdepth: 4
+   :maxdepth: 6
    :caption: OVIS Components
 
    SOS <sos:index>
+   `SOS <sos:index>`
    SOS `<sos:index>`
    LDMS <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/index.html>
    SOS <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/index.html>
@@ -40,6 +41,8 @@ Welcome To OVIS-HPC Documentation!
    
 Other Projects
 ====================================
+
+`TESTING SOS INDEX STUFF <sos:index>`
 
 `ldms <https://github.com/ovis-hpc/ovis>`_
 `ovis-publications <https://github.com/ovis-hpc/ovis-publications>`_
