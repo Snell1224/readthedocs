@@ -29,8 +29,6 @@ Welcome To OVIS-HPC Documentation!
 .. toctree::
    :maxdepth: 4
    :caption: OVIS Components
-   :members:
-   :undoc-members:
    :show-inheritance:
 
    LDMS <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/index.html>
