@@ -29,15 +29,9 @@ Welcome To OVIS-HPC Documentation!
 .. toctree::
    :maxdepth: 4
    :caption: OVIS Components
-   :show-inheritance:
 
-   LDMS <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/index.html>
-   SOS :doc:`sos:index`
-   :doc:`TEST <sos:index>`
-   :ref:`TESTING <sos:index>`
-   SOS `<:doc:sos:index>`
-   SOS <:doc:`sos:index`>
-   SOS <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/index.html>
+   LDMS <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/index.html/#>
+   SOS <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/index.html/#>
    Maestro <https://ovis-hpc-personal.readthedocs.io/projects/maestro/en/latest/index.html>
    Baler <https://ovis-hpc-personal.readthedocs.io/projects/baler/en/latest/index.html>
    deployment/index
