@@ -30,11 +30,12 @@ Welcome To OVIS-HPC Documentation!
    :maxdepth: 4
    :caption: OVIS Components
 
-   LDMS <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ldms-index.html/#>
+   LDMS <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ldms-index.html>
    SOS <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/sos-index.html>
    Maestro <https://ovis-hpc-personal.readthedocs.io/projects/maestro/en/latest/maestro-index.html>
    Baler <https://ovis-hpc-personal.readthedocs.io/projects/baler/en/latest/baler-index.html>
-   deployment/index
+   AppSysFusion <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/asf/index.html>
+   Deployment <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/deployment/index.html>
    
 Other Projects
 ====================================
