@@ -47,3 +47,4 @@ html_theme_options = {
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+numpydoc_show_class_members = False
