@@ -32,6 +32,8 @@ Welcome To OVIS-HPC Documentation!
 
    LDMS <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/index.html>
    SOS :doc:`sos:index`
+   :doc:`TEST <sos:index>`
+   :ref:`TESTING <sos:index>`
    SOS `<:doc:sos:index>`
    SOS <:doc:`sos:index`>
    SOS <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/index.html>
@@ -42,9 +44,8 @@ Welcome To OVIS-HPC Documentation!
 Other Projects
 ====================================
 
-:doc:`TESTING SOS INDEX STUFF <sos:index>`
-
-:doc:`Testing the indexing <sos:latest/indext>`
+* :doc:`sos:index`
+* :ref:`sos:sos-index`
 
 `ldms <https://github.com/ovis-hpc/ovis>`_
 `ovis-publications <https://github.com/ovis-hpc/ovis-publications>`_
