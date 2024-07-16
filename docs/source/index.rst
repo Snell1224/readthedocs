@@ -22,8 +22,7 @@ Welcome To OVIS-HPC Documentation!
    :caption: OVIS and Group Activity
 
    aboutovis
-   https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ldmscon.html
-   LDMS Users Group Conference <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ldmscon.html>
+   LDMS Users Group Conference (LDMSCON) <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ldmscon.html>
    LDSM Users Group <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/ug.html>
    publications
 
@@ -36,7 +35,7 @@ Welcome To OVIS-HPC Documentation!
    Maestro <https://ovis-hpc-personal.readthedocs.io/projects/maestro/en/latest/maestro-index.html>
    Baler <https://ovis-hpc-personal.readthedocs.io/projects/baler/en/latest/baler-index.html>
    AppSysFusion <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/asf/index.html>
-   Deployment <https://ovis-hpc-personal.readthedocs.io/projects/ldms/en/latest/deployment/index.html>
+   deployment/index
    
 Other Projects
 ====================================
