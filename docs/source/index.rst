@@ -27,7 +27,7 @@ Welcome To OVIS-HPC Documentation!
    publications
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 4
    :caption: OVIS Components
    :members:
    :undoc-members:
